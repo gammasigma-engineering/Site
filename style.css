@@ -32,10 +32,10 @@ html, body {
   text-align: center;
 }
 .content img {
-  width: 600px;
+  width: 700px;
   margin-bottom: 10px;
   margin-top: 150px;
-  animation: zoomInOut 6s infinite ease-in-out;
+  animation: zoomInOut 8s infinite ease-in-out;
 }
 
 .comet {
